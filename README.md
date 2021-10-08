@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/desarrollo0723/pace%20Game%20-%20web%20-%20Planes%20de%20entrega/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/desarrollo0723/pace%20Game%20-%20web%20-%20Planes%20de%20entrega/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
